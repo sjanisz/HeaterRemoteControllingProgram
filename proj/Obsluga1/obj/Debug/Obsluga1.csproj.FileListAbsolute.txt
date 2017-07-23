@@ -1,0 +1,24 @@
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\bin\Debug\Obsluga1.exe.config
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\bin\Debug\Obsluga1.exe
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\bin\Debug\Obsluga1.pdb
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.csprojResolveAssemblyReference.cache
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.Form1.resources
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.Properties.Resources.resources
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.csproj.GenerateResource.Cache
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.exe
+c:\users\imek\documents\visual studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.pdb
+C:\Users\imek\Documents\Visual Studio 2013\Projects\Obsluga1\Obsluga1\bin\Debug\ZedGraph.dll
+C:\Users\imek\Documents\Visual Studio 2013\Projects\Obsluga1\Obsluga1\obj\Debug\Obsluga1.Form2.resources
+C:\Users\imek\Documents\Visual Studio 2013\Projects\Obsluga1\Obsluga1\bin\Debug\ZedGraph.Web.dll
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\bin\Debug\Obsluga1.exe.config
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.exe
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.pdb
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\bin\Debug\Obsluga1.exe
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\bin\Debug\Obsluga1.pdb
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\bin\Debug\ZedGraph.dll
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\bin\Debug\ZedGraph.Web.dll
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.csprojResolveAssemblyReference.cache
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.Form1.resources
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.Form2.resources
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.Properties.Resources.resources
+E:\DoZachowania\Misc_z_pulpitu\d\zal\3. Listing kodu programu PC służącego do obsługi sterownika\Obsluga1\Obsluga1\obj\Debug\Obsluga1.csproj.GenerateResource.Cache
